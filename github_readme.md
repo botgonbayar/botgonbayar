@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bat Otgonbayar
 
-Welcome to my GitHub profile! I'm a passionate cybersecurity professional specializing in **Identity and Access Management (IAM)**, **cloud security**, and **hands-on technical labs**. 
+Welcome to my GitHub profile! I'm a passionate cybersecurity professional specializing in Identity and Access Management (IAM), cloud security, and hands-on technical labs. 
 
 I enjoy building comprehensive lab environments, creating detailed walkthroughs, and helping others understand complex security concepts through practical, simplified examples.
 
@@ -23,13 +23,13 @@ A comprehensive series covering:
 - Service account management
 - File sharing security best practices
 
-[View Project →](link-to-project)
+[View Project →](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](your-medium-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/botgonbayar))
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@botgonbayar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batotgonbayar@proton.me)
 
 ## 📊 GitHub Stats
 
@@ -37,4 +37,4 @@ A comprehensive series covering:
 
 ---
 
-*"Security is not a product, but a process."* - Building secure systems one lab at a time.
+*"The most important thing is to try and inspire people so that they can be great at whatever they want to do."* - Kobe Bryant 🐍
