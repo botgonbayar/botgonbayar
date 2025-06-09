@@ -1,16 +1,22 @@
-## Hi there 👋
+# Bat Otgonbayar  
+Cybersecurity Student | Identity & Access Management Enthusiast | SC-300 & Okta Certified |  
 
-<!--
-**botgonbayar/botgonbayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate cybersecurity professional focused on Identity and Access Management (IAM), cloud security, and hands-on technical labs. I enjoy building out labs, sharing walkthroughs, and helping others understand complex security topics through simplified examples.
 
-Here are some ideas to get you started:
+Dive into my projects and documentation to explore practical skills in IAM, Active Directory, Entra ID, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Identity & Access Management Projects
+
+### [📁 Active Directory Domain Services Lab](https://github.com/yourusername/ad-ds-lab](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)  
+*Published on June 8th, 2025*  
+This series walks through domain controller setup, OU and GPO configuration, service accounts, and file sharing best practices.
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/botgonbayar)
+- [Medium Blog](https://medium.com/@botgonbayar)
+- [Email](mailto:batotgonbayar@proton.me)
