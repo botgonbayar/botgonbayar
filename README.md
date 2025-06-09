@@ -1,5 +1,4 @@
-# Bat Otgonbayar  
-Cybersecurity Student | Identity & Access Management Enthusiast | SC-300 & Okta Certified |  
+# Bat Otgonbayar   
 
 Welcome to my GitHub profile! I'm a passionate cybersecurity professional focused on Identity and Access Management (IAM), cloud security, and hands-on technical labs. I enjoy building out labs, sharing walkthroughs, and helping others understand complex security topics through simplified examples.
 
