@@ -31,7 +31,7 @@ A comprehensive series covering:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@botgonbayar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batotgonbayar@proton.me)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=botgonbayar&show_icons=true&theme=dark)
 
