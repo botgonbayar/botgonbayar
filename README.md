@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Bat Otgonbayar
+# Hi, I'm Bat Otgonbayar
 
-Welcome to my GitHub profile! I'm a passionate cybersecurity professional specializing in Identity and Access Management (IAM), cloud security, and hands-on technical labs. 
+Welcome to my GitHub profile! I'm a passionate cybersecurity practitioner specializing in Identity and Access Management (IAM) and cloud security. 
 
 I enjoy building comprehensive lab environments, creating detailed walkthroughs, and helping others understand complex security concepts through practical, simplified examples.
 
-## 🎯 What You'll Find Here
+## What You'll Find Here
 
 Explore my projects and documentation to discover practical skills and implementations in:
 - Identity and Access Management (IAM)
@@ -12,9 +12,9 @@ Explore my projects and documentation to discover practical skills and implement
 - Cloud Security Architecture
 - Cybersecurity Labs & Tutorials
 
-## 🛡️ Featured Projects
+## Featured Projects
 
-### 📁 **Part 1 — Setting up Active Directory**
+### **Part 1 — Setting up Active Directory**
 *Published: June 8, 2025*
 
 A comprehensive series covering:
@@ -25,7 +25,7 @@ A comprehensive series covering:
 
 [View Project →](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/botgonbayar)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@botgonbayar)
