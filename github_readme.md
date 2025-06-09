@@ -14,7 +14,7 @@ Explore my projects and documentation to discover practical skills and implement
 
 ## 🛡️ Featured Projects
 
-### 📁 **Deploying Active Directory -- PART 1**
+### 📁 **Part 1 — Setting up Active Directory**
 *Published: June 8, 2025*
 
 A comprehensive series covering:
