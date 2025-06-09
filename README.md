@@ -9,7 +9,7 @@ Dive into my projects and documentation to explore practical skills in IAM, Acti
 
 ## 🛡️ Identity & Access Management Projects
 
-### [📁 Active Directory Domain Services Lab](https://github.com/yourusername/ad-ds-lab](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)  
+### [📁 Active Directory Domain Services Lab](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)  
 *Published on June 8th, 2025*  
 This series walks through domain controller setup, OU and GPO configuration, service accounts, and file sharing best practices.
 
