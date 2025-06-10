@@ -4,14 +4,6 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity practitioner specia
 
 I enjoy building comprehensive lab environments, creating detailed walkthroughs, and helping others understand complex security concepts through practical, simplified examples.
 
-## What You'll Find Here
-
-Explore my projects and documentation to discover practical skills and implementations in:
-- Identity and Access Management (IAM)
-- Active Directory & Entra ID
-- Cloud Security Architecture
-- Cybersecurity Labs & Tutorials
-
 ## Featured Projects
 
 ### **Part 1 — Setting up Active Directory**
