@@ -1,6 +1,6 @@
 ## Featured Projects
 
-###  [Active Directory Lab Series](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)
+### [Active Directory Lab Series](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)
 **Latest:** Part 1 — Setting up Active Directory *(June 8, 2025)*
 
 A hands-on journey through enterprise AD implementation:
@@ -8,12 +8,6 @@ A hands-on journey through enterprise AD implementation:
 -  Advanced OU/GPO configurations
 -  Service account security hardening
 -  Enterprise file sharing best practices
-
-## Technologies & Tools
-- **Cloud Platforms:** Azure, AWS
-- **IAM Solutions:** Active Directory, Okta, Auth0, Entra ID, BeyondTrust
-- **Security Tools:** Splunk, Wireshark
-- **Scripting:** PowerShell
 
 ## Connect with Me
 
@@ -27,4 +21,4 @@ A hands-on journey through enterprise AD implementation:
 
 ---
 
-*"The most important thing is to try and inspire people so that they can be great at whatever they want to do."* - Kobe Bryant 🐍
+*"The most important thing is to try and inspire people so that they can be great at whatever they want to do."* - Kobe Bryant 
