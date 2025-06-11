@@ -1,9 +1,3 @@
-# Hi, I'm Bat Otgonbayar
-
-Welcome to my GitHub profile! I'm a cybersecurity practitioner specializing in Identity and Access Management (IAM) and cloud security. 
-
-I enjoy building comprehensive lab environments, creating detailed walkthroughs, and helping others understand complex security concepts through practical and simplified examples.
-
 ## Featured Projects
 
 ###  [Active Directory Lab Series](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)
