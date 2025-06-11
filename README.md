@@ -1,8 +1,8 @@
 # Hi, I'm Bat Otgonbayar
 
-Welcome to my GitHub profile! I'm a passionate cybersecurity practitioner specializing in Identity and Access Management (IAM) and cloud security. 
+Welcome to my GitHub profile! I'm a cybersecurity practitioner specializing in Identity and Access Management (IAM) and cloud security. 
 
-I enjoy building comprehensive lab environments, creating detailed walkthroughs, and helping others understand complex security concepts through practical, simplified examples.
+I enjoy building comprehensive lab environments, creating detailed walkthroughs, and helping others understand complex security concepts through practical and simplified examples.
 
 ## Featured Projects
 
