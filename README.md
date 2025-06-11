@@ -6,16 +6,22 @@ I enjoy building comprehensive lab environments, creating detailed walkthroughs,
 
 ## Featured Projects
 
-### **Part 1 — Setting up Active Directory**
-*Published: June 8, 2025*
+###  [Active Directory Lab Series](link-to-repo)
+**Latest:** Part 1 — Setting up Active Directory *(June 8, 2025)*
 
-A comprehensive series covering:
-- Domain controller setup and configuration
-- Organizational Units (OU) and Group Policy Objects (GPO)
-- Service account management
-- File sharing security best practices
+A hands-on journey through enterprise AD implementation:
+-  Domain controller setup with real-world scenarios
+-  Advanced OU/GPO configurations
+-  Service account security hardening
+-  Enterprise file sharing best practices
 
 [View Project →](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)
+
+## Technologies & Tools
+- **Cloud Platforms:** Azure, AWS
+- **IAM Solutions:** Active Directory, Okta, Auth0, Entra ID, BeyondTrust
+- **Security Tools:** Splunk, Wireshark
+- **Scripting:** PowerShell
 
 ## Connect with Me
 
