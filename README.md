@@ -1,4 +1,4 @@
-## Featured Projects
+## Identity & Access Management Projects
 
 ### [Active Directory Lab Series](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)
 **Latest:** Part 1 — Setting up Active Directory *(June 8, 2025)*
