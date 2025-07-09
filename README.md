@@ -4,10 +4,15 @@
 **Latest:** Part 1 — Setting up Active Directory *(June 8, 2025)*
 
 A hands-on journey through enterprise AD implementation:
--  Domain controller setup with real-world scenarios
--  Advanced OU/GPO configurations
--  Service account security hardening
--  Enterprise file sharing best practices
+- Domain controller setup with real-world scenarios  
+- Advanced OU/GPO configurations  
+- Service account security hardening  
+- Enterprise file sharing best practices  
+
+## 🌐 Visit My Portfolio Site
+
+Explore more of my work, projects, and certifications in a visual format:  
+🔗 [https://botgonbayar.github.io](https://botgonbayar.github.io)
 
 ## Connect with Me
 
@@ -21,4 +26,4 @@ A hands-on journey through enterprise AD implementation:
 
 ---
 
-*"The most important thing is to try and inspire people so that they can be great at whatever they want to do."* - Kobe Bryant 
+*"The most important thing is to try and inspire people so that they can be great at whatever they want to do."* — Kobe Bryant
