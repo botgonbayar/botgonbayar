@@ -1,8 +1,6 @@
 ## Identity & Access Management Projects
-
-### <a href="https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92" target="_blank">Active Directory Secora Series</a>  
+### [Active Directory Secora Series](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)
 **Latest:** Part 1 — Setting up Active Directory *(June 8, 2025)*
-
 A hands-on journey through enterprise AD implementation:
 - Domain controller setup with real-world scenarios  
 - Advanced OU/GPO configurations  
@@ -10,21 +8,21 @@ A hands-on journey through enterprise AD implementation:
 - Enterprise file sharing best practices  
 
 ## 🌐 Visit My Portfolio Site
-
 Explore more of my work, projects, and certifications in a visual format:  
-🔗 <a href="https://botgonbayar.github.io" target="_blank">https://botgonbayar.github.io</a>
+🔗 [https://botgonbayar.github.io](https://botgonbayar.github.io)
 
 ## Connect with Me
-
-<a href="https://linkedin.com/in/botgonbayar" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://medium.com/@botgonbayar" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-<a href="mailto:batotgonbayar@proton.me" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/botgonbayar">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://medium.com/@botgonbayar">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/>
+  </a>
+  <a href="mailto:batotgonbayar@proton.me">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+</p>
 
 ## GitHub Stats
 
