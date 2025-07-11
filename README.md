@@ -1,6 +1,6 @@
 ## Identity & Access Management Projects
 
-### [Active Directory Secora Series](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)
+### <a href="https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92" target="_blank">Active Directory Secora Series</a>  
 **Latest:** Part 1 — Setting up Active Directory *(June 8, 2025)*
 
 A hands-on journey through enterprise AD implementation:
@@ -12,13 +12,19 @@ A hands-on journey through enterprise AD implementation:
 ## 🌐 Visit My Portfolio Site
 
 Explore more of my work, projects, and certifications in a visual format:  
-🔗 [https://botgonbayar.github.io](https://botgonbayar.github.io)
+🔗 <a href="https://botgonbayar.github.io" target="_blank">https://botgonbayar.github.io</a>
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/botgonbayar)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@botgonbayar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batotgonbayar@proton.me)
+<a href="https://linkedin.com/in/botgonbayar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://medium.com/@botgonbayar" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<a href="mailto:batotgonbayar@proton.me" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 ## GitHub Stats
 
