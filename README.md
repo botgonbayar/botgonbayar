@@ -67,11 +67,6 @@ Collection of enterprise security and automation tools *(April 14, 2025)*
 ![Okta](https://img.shields.io/badge/-Okta-007DC1?style=flat-square&logo=okta&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-### **Security & Compliance**
-![CompTIA Security+](https://img.shields.io/badge/-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
-![CompTIA CySA+](https://img.shields.io/badge/-CySA%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
-![Microsoft SC-300](https://img.shields.io/badge/-SC--300-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
 ### **Infrastructure & Cloud**
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
