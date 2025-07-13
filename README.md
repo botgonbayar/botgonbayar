@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bat Otgonbayar
 
-**Cybersecurity Professional** | **Identity & Access Management Specialist** | **IT Systems Administrator**
+**Cybersecurity Professional** | **Identity & Access Management Specialist** | **IT Systems Technician**
 
 🔐 Passionate about securing digital identities and building resilient IT infrastructure  
 🎯 Currently focused on Microsoft Azure/Entra ID, Active Directory, and endpoint security  
@@ -31,6 +31,36 @@ A comprehensive, hands-on journey through enterprise Active Directory implementa
 
 *More parts coming soon! Follow along as I build a complete enterprise AD environment.*
 
+---
+
+### [PowerShell Security Automation Scripts](https://github.com/botgonbayar/Active-Directory-Series/tree/main/scripts)
+**Collection of enterprise security and automation tools**
+
+PowerShell scripts developed for automating post-deployment configurations and security risk mitigation in enterprise environments:
+- 🔧 **Disable-EdgeIntrusiveAds.ps1** - Remove intrusive advertising features
+- 🔍 **Audit-ACLPermissions.ps1** - Comprehensive permission auditing
+- 🔐 **Audit-AuthenticationEvents.ps1** - Security event monitoring
+- 👥 **Create-UsersBulk.ps1** - Automated user provisioning
+- 🚫 **Disable-InactiveUsers.ps1** - Account lifecycle management
+- 💾 **Audit-SecureBackup.ps1** - Backup security validation
+- 📊 **Report-SystemHealth.ps1** - System monitoring and reporting
+
+*Ready-to-use scripts for Windows system administrators and security professionals.*
+
+---
+
+### [Gmail Attachments to Google Drive Automated Flow](https://medium.com/@botgonbayar/automatically-save-gmail-attachments-to-dropbox-via-power-automate-f09f9d5c9d12)
+**Cloud workflow automation using Microsoft Power Automate**
+
+Automated workflow solution that streamlines document management by saving Gmail attachments directly to Google Drive:
+- ⚡ **Automated Triggers** - Real-time processing of new Gmail messages
+- 🔄 **Conditional Logic** - Smart filtering for specific email types
+- 🔐 **Secure Authentication** - OAuth integration between Gmail and Google Drive
+- 📁 **Smart Organization** - Automatic file naming and folder structure
+- 🛡️ **Error Handling** - Robust notification and recovery systems
+- 📈 **Performance Optimized** - Reliable workflow execution
+
+*Reducing manual processes and improving productivity through intelligent automation.*
 ---
 
 ## 🛠️ Technical Arsenal
