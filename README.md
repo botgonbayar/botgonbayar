@@ -22,7 +22,6 @@
 ### [Gmail Attachments to Google Drive Automated Flow](https://medium.com/@botgonbayar/automatically-save-gmail-attachments-to-dropbox-via-power-automate-f09f9d5c9d12)
 **Cloud workflow automation using Microsoft Power Automate** *(July 11, 2025)*
 
-Automated workflow solution that streamlines document management by saving Gmail attachments directly to Google Drive:
 - ⚡ **Automated Triggers** - Real-time processing of new Gmail messages
 - 🔄 **Conditional Logic** - Smart filtering for specific email types
 - 🔐 **Secure Authentication** - OAuth integration between Gmail and Google Drive
@@ -35,7 +34,6 @@ Automated workflow solution that streamlines document management by saving Gmail
 ### [Active Directory Secora Series](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)
 **Latest:** Part 1 — Setting up Active Directory *(June 8, 2025)*
 
-A comprehensive, hands-on journey through enterprise Active Directory implementation:
 - 🖥️ **Domain Controller Setup** - Real-world deployment scenarios and best practices
 - 🏗️ **Advanced OU/GPO Management** - Scalable organizational structure design  
 - 🔒 **Service Account Hardening** - Security-first approach to privileged accounts
@@ -49,7 +47,6 @@ A comprehensive, hands-on journey through enterprise Active Directory implementa
 ### [PowerShell Security Automation Scripts](https://github.com/botgonbayar/Active-Directory-Series/tree/main/scripts)
 **Collection of enterprise security and automation tools** *(April 14, 2025)*
 
-PowerShell scripts developed for automating post-deployment configurations and security risk mitigation in enterprise environments:
 - 🔧 **Disable-EdgeIntrusiveAds.ps1** - Remove intrusive advertising features
 - 🔍 **Audit-ACLPermissions.ps1** - Comprehensive permission auditing
 - 🔐 **Audit-AuthenticationEvents.ps1** - Security event monitoring
