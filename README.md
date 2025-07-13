@@ -20,7 +20,7 @@
 ## 🔐 Featured Projects
 
 ### [Gmail Attachments to Google Drive Automated Flow](https://medium.com/@botgonbayar/automatically-save-gmail-attachments-to-dropbox-via-power-automate-f09f9d5c9d12)
-**Cloud workflow automation using Microsoft Power Automate** *(July 11, 2025)*
+Cloud workflow automation using Microsoft Power Automate *(July 11, 2025)*
 
 - ⚡ **Automated Triggers** - Real-time processing of new Gmail messages
 - 🔄 **Conditional Logic** - Smart filtering for specific email types
@@ -45,7 +45,7 @@
 ---
 
 ### [PowerShell Security Automation Scripts](https://github.com/botgonbayar/Active-Directory-Series/tree/main/scripts)
-**Collection of enterprise security and automation tools** *(April 14, 2025)*
+Collection of enterprise security and automation tools *(April 14, 2025)*
 
 - 🔧 **Disable-EdgeIntrusiveAds.ps1** - Remove intrusive advertising features
 - 🔍 **Audit-ACLPermissions.ps1** - Comprehensive permission auditing
