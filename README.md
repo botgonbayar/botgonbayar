@@ -117,19 +117,9 @@ Collection of enterprise security and automation tools *(April 14, 2025)*
 
 ---
 
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-*This section can be automated with GitHub Actions to show recent commits/activity*
-<!--END_SECTION:activity-->
-
----
-
 <div align="center">
   
 *"The most important thing is to try and inspire people so that they can be great at whatever they want to do."*  
 **— Kobe Bryant**
-
-![Profile Views](https://komarev.com/ghpvc/?username=botgonbayar&color=blueviolet&style=flat-square)
 
 </div>
