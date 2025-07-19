@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bat Otgonbayar
 
-**Cybersecurity Professional** | **Identity & Access Management Specialist** | **IT Systems Technician**
+**Cybersecurity Practitioner** | **Identity & Access Management Specialist** | **Service Desk Analyst Intern**
 
 🔐 Passionate about securing digital identities and building resilient IT infrastructure  
 🎯 Currently focused on Microsoft Azure/Entra ID, Active Directory, and endpoint security  
