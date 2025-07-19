@@ -8,15 +8,6 @@
 
 ---
 
-## 🚀 What I'm Working On
-
-- 🔍 **Active Directory Security Series** - Deep-diving into enterprise AD hardening techniques
-- ☁️ **Azure Identity Management** - Exploring hybrid cloud identity solutions  
-- 🛡️ **Endpoint Security** - PowerShell automation for security configurations
-- 📝 **Technical Writing** - Documenting real-world cybersecurity implementations
-
----
-
 ## 🔐 Featured Projects
 
 ### [Gmail Attachments to Google Drive Automated Flow](https://medium.com/@botgonbayar/automatically-save-gmail-attachments-to-dropbox-via-power-automate-f09f9d5c9d12)
