@@ -1,14 +1,6 @@
-# 👋 Hi, I'm Bat Otgonbayar
-
-**Cybersecurity Practitioner** | **Identity & Access Management Specialist** | **Service Desk Analyst Intern**
-
-🔐 Passionate about securing digital identities and building resilient IT infrastructure  
-🎯 Currently focused on Microsoft Azure/Entra ID, Active Directory, and endpoint security  
-📚 Sharing my cybersecurity journey through hands-on technical blogs and projects
-
 ---
 
-## 🔐 Featured Projects
+## Featured Projects
 
 ### [Gmail Attachments to Google Drive Automated Flow](https://medium.com/@botgonbayar/automatically-save-gmail-attachments-to-dropbox-via-power-automate-f09f9d5c9d12)
 Cloud workflow automation using Microsoft Power Automate *(July 11, 2025)*
