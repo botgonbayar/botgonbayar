@@ -42,7 +42,7 @@ Collection of enterprise security and automation tools *(April 14, 2025)*
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 ### **Identity & Access Management**
 ![Microsoft Entra ID](https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -57,7 +57,7 @@ Collection of enterprise security and automation tools *(April 14, 2025)*
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=botgonbayar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -70,11 +70,11 @@ Collection of enterprise security and automation tools *(April 14, 2025)*
 
 ---
 
-## 🌐 Explore More
+## Explore More
 
 <div align="center">
   
-### 🎨 **Portfolio Website**
+### **Portfolio Website**
 *Dive deeper into my projects, certifications, and technical journey*
 
 [![Portfolio](https://img.shields.io/badge/-🌐%20botgonbayar.github.io-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://botgonbayar.github.io)
@@ -83,7 +83,7 @@ Collection of enterprise security and automation tools *(April 14, 2025)*
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
   
