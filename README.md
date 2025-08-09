@@ -1,5 +1,3 @@
----
-
 ## Featured Projects
 
 ### [Active Directory Secora Series](https://medium.com/@botgonbayar/building-secoras-user-base-creating-30-users-ous-and-security-groups-b4a22e2f1d73)
