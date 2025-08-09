@@ -2,6 +2,19 @@
 
 ## Featured Projects
 
+### [Active Directory Secora Series](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92](https://medium.com/@botgonbayar/building-secoras-user-base-creating-30-users-ous-and-security-groups-b4a22e2f1d73)
+**Latest:** Part 2 — Enterprise Structure & Security *(August 2025)*
+- 🏗️ **Enterprise OU Design** - Scalable organizational structure for 50-200 users
+- 🔐 **Tiered Security Model** - Microsoft's recommended administrative framework
+- 👥 **Advanced User Management** - Automated provisioning with PowerShell
+- 🎯 **Security Groups Strategy** - Comprehensive access control implementation
+- 🖥️ **Domain Controller Setup** - Real-world deployment scenarios and best practices
+- 🔄 **Hybrid Cloud Integration** - Entra ID Connect and seamless SSO
+
+*Part 3 coming soon! Building a complete enterprise AD environment from ground up.*
+
+---
+
 ### [Gmail Attachments to Google Drive Automated Flow](https://medium.com/@botgonbayar/automatically-save-gmail-attachments-to-dropbox-via-power-automate-f09f9d5c9d12)
 Cloud workflow automation using Microsoft Power Automate *(July 11, 2025)*
 
