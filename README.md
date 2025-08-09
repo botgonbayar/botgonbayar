@@ -2,8 +2,8 @@
 
 ## Featured Projects
 
-### [Active Directory Secora Series](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92](https://medium.com/@botgonbayar/building-secoras-user-base-creating-30-users-ous-and-security-groups-b4a22e2f1d73)
-**Latest:** Part 2 — Enterprise Structure & Security *(August 2025)*
+### [Active Directory Secora Series](https://medium.com/@botgonbayar/building-secoras-user-base-creating-30-users-ous-and-security-groups-b4a22e2f1d73)
+**Latest:** Part 2 — Enterprise Structure & Security *(August 9, 2025)*
 - 🏗️ **Enterprise OU Design** - Scalable organizational structure for 50-200 users
 - 🔐 **Tiered Security Model** - Microsoft's recommended administrative framework
 - 👥 **Advanced User Management** - Automated provisioning with PowerShell
@@ -28,7 +28,7 @@ Cloud workflow automation using Microsoft Power Automate *(July 11, 2025)*
 ---
 
 ### [Active Directory Secora Series](https://medium.com/@botgonbayar/part-1-setting-up-active-directory-c59677048c92)
-**Latest:** Part 1 — Setting up Active Directory *(June 8, 2025)*
+Part 1 — Setting up Active Directory *(June 8, 2025)*
 
 - 🖥️ **Domain Controller Setup** - Real-world deployment scenarios and best practices
 - 🏗️ **Advanced OU/GPO Management** - Scalable organizational structure design  
