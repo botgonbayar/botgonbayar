@@ -2,12 +2,12 @@
 
 ### [Azure Honeypot, Sentinel Telemetry & KQL Detection Engineering](https://botgonbayar.github.io/writeups/honeypot-sentinel-cloud/)
 **Latest:** Enterprise Structure & Security *(June 11, 2026)*
-🛡️ Cloud SIEM Deployment - Built a Microsoft Sentinel workspace connected to an Azure-hosted Windows honeypot
-☁️ Azure Lab Architecture - Deployed a public-facing VM, Log Analytics Workspace, and Sentinel data pipeline
-📊 Real Attack Telemetry - Captured 26,066 failed authentication attempts from 253 unique source IPs
-🔎 KQL Detection Logic - Queried Windows Security Event logs to identify top usernames, source IPs, and attack patterns
-🚨 Alert Rule Development - Created Sentinel analytics rules for brute-force and suspicious authentication behavior
-🧠 Blue-Team Analysis - Documented assumptions, findings, and lessons learned from real honeypot activity
+- 🛡️ Cloud SIEM Deployment - Built a Microsoft Sentinel workspace connected to an Azure-hosted Windows honeypot
+- ☁️ Azure Lab Architecture - Deployed a public-facing VM, Log Analytics Workspace, and Sentinel data pipeline
+- 📊 Real Attack Telemetry - Captured 26,066 failed authentication attempts from 253 unique source IPs
+- 🔎 KQL Detection Logic - Queried Windows Security Event logs to identify top usernames, source IPs, and attack patterns
+- 🚨 Alert Rule Development - Created Sentinel analytics rules for brute-force and suspicious authentication behavior
+- 🧠 Blue-Team Analysis - Documented assumptions, findings, and lessons learned from real honeypot activity
 Part 2 will add an AI-assisted triage layer for analyst-ready incident summaries.
 
 ### [Active Directory Secora Series -- Part 2](https://medium.com/@botgonbayar/building-secoras-user-base-creating-30-users-ous-and-security-groups-b4a22e2f1d73)
