@@ -1,8 +1,7 @@
 ## Featured Projects
 
 Microsoft Sentinel Cloud SIEM Honeypot
-
-### Latest: Azure Honeypot, Sentinel Telemetry & KQL Detection Engineering (June 2026)
+### [Azure Honeypot, Sentinel Telemetry & KQL Detection Engineering](https://botgonbayar.github.io/writeups/honeypot-sentinel-cloud/)
 **Latest:** Enterprise Structure & Security *(June 11, 2026)*
 🛡️ Cloud SIEM Deployment - Built a Microsoft Sentinel workspace connected to an Azure-hosted Windows honeypot
 ☁️ Azure Lab Architecture - Deployed a public-facing VM, Log Analytics Workspace, and Sentinel data pipeline
